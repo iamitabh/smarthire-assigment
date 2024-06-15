@@ -1,0 +1,13 @@
+.result {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.timer-card {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: larger;
+}
